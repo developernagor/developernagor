@@ -1,6 +1,7 @@
 
+<img src="https://i.postimg.cc/kMKpvhpD/httpsmehedi-hassan-netlify-app-2.png" />
 
-<h1 align="left">👋 Hello there! I'm Mehedi Hassan</h1>
+<h1 align="left">👋 Hello there! I'm Mehedi Hassan Nagor</h1>
 
 ###
 
@@ -8,7 +9,7 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
