@@ -1,7 +1,10 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/Y45hPnyP/httpsmehedi-hassan-netlify-app-3.png"  />
+</div>
 
-<img src="https://i.ibb.co.com/Y45hPnyP/httpsmehedi-hassan-netlify-app-3.png" />
+###
 
-<h1 align="left">👋 Hello there! I'm Mehedi Hassan Nagor</h1>
+<h1 align="left">👋 Hello there! I'm Mehedi Hassan</h1>
 
 ###
 
@@ -9,7 +12,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -57,15 +60,9 @@
   <a href="https://www.linkedin.com/in/developernagor" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/dev_nagor" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/+8801575439591" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/md.mehedi.hasan.nagor" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
 
 ###
